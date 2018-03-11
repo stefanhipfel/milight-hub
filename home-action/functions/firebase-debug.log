@@ -1,0 +1,13 @@
+[debug] [2018-03-10T23:42:54.828Z] ----------------------------------------------------------------------
+[debug] [2018-03-10T23:42:54.830Z] Command:       /Users/stefanhipfel/.nvm/versions/node/v6.11.2/bin/node /Users/stefanhipfel/.nvm/versions/node/v6.11.2/bin/firebase experimental:functions:shell
+[debug] [2018-03-10T23:42:54.831Z] CLI Version:   3.17.3
+[debug] [2018-03-10T23:42:54.831Z] Platform:      darwin
+[debug] [2018-03-10T23:42:54.831Z] Node Version:  v6.11.2
+[debug] [2018-03-10T23:42:54.831Z] Time:          Sun Mar 11 2018 00:42:54 GMT+0100 (CET)
+[debug] [2018-03-10T23:42:54.831Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-10T23:42:54.848Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-10T23:42:54.848Z] > authorizing via signed-in user
+[debug] [2018-03-10T23:42:54.850Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/milight-3c395  
+  
+ Sun Mar 11 2018 00:42:54 GMT+0100 (CET)
